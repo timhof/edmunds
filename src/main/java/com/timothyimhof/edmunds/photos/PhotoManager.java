@@ -18,7 +18,9 @@ import com.timothyimhof.edmunds.photos.bean.Photo;
  * The Class PhotoManager.
  */
 public class PhotoManager extends BaseRepositoryManager {
-
+	
+	public static final String PHOTO_URL_BASE = "http://media.ed.edmunds-media.com";
+	
 	/**
 	 * Instantiates a new photo manager.
 	 *

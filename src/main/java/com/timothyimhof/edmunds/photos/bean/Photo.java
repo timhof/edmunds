@@ -7,7 +7,6 @@ package com.timothyimhof.edmunds.photos.bean;
 
 import java.util.List;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class Photo.
  */
@@ -222,4 +221,5 @@ public class Photo {
 	public void setVdpOrder(String vdpOrder) {
 		this.vdpOrder = vdpOrder;
 	}
+	
 }
